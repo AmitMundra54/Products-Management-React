@@ -1,1 +1,1 @@
-# TO-DO-React
+# Instoke product management
